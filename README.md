@@ -34,3 +34,5 @@ A line was drawn between the Green Line Stations signifying the Green Line LRT r
 A buffer was created around the Green Line LRT with a 3km radius. 
 OD Cost Matrix was conducted setting the Destinations as the Green Line LRT Stations and the Starting Points as each Community Centroid
 
+LICENSING
+Measuring Community Access to Light Rail Transit Stations: Green Line Impact © 1999 by Riley Torstensen is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
